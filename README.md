@@ -61,7 +61,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 Hello Microverse <a name="about-project"></a>
 
-> it the first traial hello microverse project
+This first traial hello microverse project
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -71,21 +71,22 @@ After you're finished please remove all the comments and instructions!
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">html</a></li>
+    <li><a href="https://www.w3schools.com/html/">html</a></li>
+    <li><a href="https://www.w3schools.com/css/">css</a></li>
   </ul>
 </details>
 
 <details>
   <summary>Server</summary>
   <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
+    <li><a href="#">Coming Soon</a></li>
   </ul>
 </details>
 
 <details>
 <summary>Database</summary>
   <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <li><a href="#">No database for time being</a></li>
   </ul>
 </details>
 
@@ -103,7 +104,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [comming soon...](https://yourdeployedapplicationlink.com)
+- [coming soon...](https://yourdeployedapplicationlink.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -210,11 +211,9 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
 - [ ] **[index html]**
 - [ ] **[style css]**
-- [ ] **[test rm]**
+- [ ] **[test md]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -254,13 +253,6 @@ I would like to thank...
 
 > Add at least 2 questions new developers would ask when they decide to use your project.
 
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
